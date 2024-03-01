@@ -3,5 +3,5 @@
     "board": "arduino:avr:nano",
     "programmer": "avrisp",
     "sketch": "remote/remote.ino",
-    "port": "/dev/ttyUSB0"
+    "port": "/dev/ttyUSB1"
 }
